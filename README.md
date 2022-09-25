@@ -2,12 +2,12 @@ Hi There!
 
 Joined Github **1** years ago.
 
-Since then I pushed **2149** commits, submitted **329** pull requests, reviewed **151** pull requests,received **0** stars across **11** personal projects and contributed to **5** public repositories.
+Since then I pushed **2153** commits, submitted **329** pull requests, reviewed **151** pull requests,received **0** stars across **11** personal projects and contributed to **5** public repositories.
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B136.5%25)
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B126.5%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B136.6%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B126.2%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B112.7%25)
 ![Objective-C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236866fb&message=Objective-C%2B%2B%EF%B8%B17.2%25)
 ![Objective-C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23438eff&message=Objective-C%EF%B8%B14.2%25)
